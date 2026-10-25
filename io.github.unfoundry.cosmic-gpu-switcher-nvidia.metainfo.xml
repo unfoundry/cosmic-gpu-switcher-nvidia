@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.unfoundry.cosmic-gpu-switcher-nvidia</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MPL-2.0</project_license>
+  <name>Cosmic GPU Switcher NVIDIA</name>
+  <summary>A GPU Switcher Applet for COSMIC UI</summary>
+<icon type="stock">io.github.unfoundry.cosmic-gpu-switcher-nvidia</icon>  <url type="vcs-browser">https://github.com/unfoundry/cosmic-gpu-switcher-nvidia</url>
+  <launchable type="desktop-id">io.github.unfoundry.cosmic-gpu-switcher-nvidia.desktop</launchable>
+  <provides>
+    <id>com.system76.CosmicApplet</id>
+    <binaries>
+      <binary>cosmic-gpu-switcher-nvidia</binary>
+    </binaries>
+  </provides>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+  <supports>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+  </supports>
+  <categories>
+    <category>COSMIC</category>
+  </categories>
+  <keywords>
+    <keyword>COSMIC</keyword>
+  </keywords>
+  <content_rating type="oars-1.1" />
+</component>

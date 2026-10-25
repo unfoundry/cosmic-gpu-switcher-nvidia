@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Cosmic GPU Switcher NVIDIA
+Comment=A GPU Switcher Applet for COSMIC UI
+Type=Application
+Icon=Icon=io.github.unfoundry.cosmic-gpu-switcher-nvidia
+Exec=cosmic-gpu-switcher-nvidia
+Terminal=false
+StartupNotify=true
+Categories=COSMIC;
+Keywords=COSMIC;Graphics;NVIDIA;
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
