@@ -19,4 +19,3 @@ I'm a total newbie to Rust, would like this to be a first step (so this definite
 
 #### DISCLAIMER
 This project includes an SVG that denotes the **NVIDIA** logo and hence all rights to the logo belongs **NVIDIA**. Also mentions about **Cosmic** which is part of **System76**'s awesome software offerings. This is purely developed in good faith.
-Also
